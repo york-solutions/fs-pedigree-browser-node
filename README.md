@@ -40,6 +40,7 @@ to the app you just registered in the developer's center.
     ```
     npm run dev
     ```
+5. GOTO: http://localhost:3000/
 
 ## SDK Sample Code
 
